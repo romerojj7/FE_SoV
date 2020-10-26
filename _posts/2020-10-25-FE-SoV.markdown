@@ -1,0 +1,59 @@
+---
+layout: post
+title:  "FE_SoV: How to play"
+date:   2020-10-25 01:17:09 -0400
+categories: jekyll Cat2
+---
+# Fire Emblem Echoes: Shadows of Valentia Documentation
+
+![FE:SoV Cover](cover.png)
+### Table of Contents
+1. [Introduction](#intro)
+1. [Equipment and Materials](#equip)
+1. [Installation](#install)
+1. [How to Play](#How)
+1. [FAQs](#FAQ)
+1. [Troubleshooting](#trouble)
+
+## <a name ="intro"></a>Introduction
+---
+Fire Emblem Echoes: Shadows of Valentia (FE: SoV) is a tactical role playing game for the Nintendo 3DS in 2017. The following documentation will prove helpful to those unfamiliar with the fire emblem series who hope to play this entry.
+
+## <a name ="equip"></a>Equipment and Materials
+---
+To play, a member of the 3DS family of consoles will be necessary -- 3DS, 2DS, the New 3DS, etc. Also necessary is a copy of FE:SoV. This can be acquired either through purchasing a physical cartridge, or by downloading a digital copy from the Nintendo eshop on your 3DS console.
+
+# <a name ="install"></a> Installation
+---
+If your copy is a cartridge, simple insert it into your console. To download from the Nintendo eshop, open the eshop app on your console. You will be prompted to login to your nintendo account. Once you have logged in, you will be able to purchase a digital copy if you have funds on your nintendo account. After the download is complete, the game can be launched from the console's home screen.
+
+# <a name ="How"></a> How to Play
+---
+In this game, you will control a small army of characters, or units, in combat against an opposing army. The objective of each chapter is to destroy all units of the opposing army. Both sides will alternate turns, with the player's turn being first.
+
+Each unit can move a certain number of tiles. To move a unit, place the cursor over them and press a to select them, and guide the unit to the desired location.
+
+![Move](movement.jpg)
+
+Once a unit can move in close enough to attack an enemy, select the attack option. A battle forecast will pop up, telling you the damage your unit will do to an enemy vs the damage the enemy will do to your unit. 
+
+![Forecast](forecast.jpg)
+
+There are also a few other options available when a unit is selected. A unit can trade items with adjacent units, certain units can heal, and a unit can wait to end its turn where it is. The turn continues until all units in the army have taken their turn, at which point the next army takes it's turn.
+
+## <a name ="FAQ"></a> FAQs
+---
+**Q**: Can I stop playing mid-chapter and resume playing later?
+
+**A**: Yes, you can. To do so, place your cursor on a tile unoccupied by a unit. A menu will come up. The bookmark option in this menu will create a bookmark of the games current state. The next time you load the game, you will get the option to load a bookmark instead of continuing from a savepoint. Loading the bookmark will delete it, so you will have to make another bookmark every time you want to stop mid-chapter.
+
+**Q**: Shouldn't I play the other games in the series first?
+
+**A**: There is no need to. Fire Emblem is a series tied together by it's mechanics, not an overarching story. Most Fire Emblem games are self contained stories. A beginner will have be able to enjoy FE: Sov just as much as a series veteran.
+
+## <a name ="trouble"></a> Troubleshooting
+---
+If you find yourself with more questions about the deeper mechanics of the game, or curious about various parts of in-game info, an abudance of information can be found on [serenesforest.net](https://serenesforest.net/fire-emblem-echoes-shadows-valentia/). Serenesforest is a database and forum run by Fire Emblem fans, and hosts some of the most in depth information on the series, including data hidden in the game's code.
+
+
+
