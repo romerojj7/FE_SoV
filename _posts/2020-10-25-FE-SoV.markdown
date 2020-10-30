@@ -5,9 +5,10 @@ date:   2020-10-25 01:17:09 -0400
 categories: jekyll Cat2
 ---
 # Fire Emblem Echoes: Shadows of Valentia Documentation
-
-![FE:SoV Cover](https://raw.githubusercontent.com/romerojj7/FE_SoV/gh-pages/cover.png)
-### Table of Contents
+<img src="https://raw.githubusercontent.com/romerojj7/FE_SoV/gh-pages/cover.png" alt="Fe:SoV Cover"
+	title="Game Cover" width="150" height="150" style="float:left"/>
+  
+## Table of Contents
 1. [Introduction](#intro)
 1. [Equipment and Materials](#equip)
 1. [Installation](#install)
@@ -23,11 +24,11 @@ Fire Emblem Echoes: Shadows of Valentia (FE: SoV) is a tactical role playing gam
 ---
 To play, a member of the 3DS family of consoles will be necessary -- 3DS, 2DS, the New 3DS, etc. Also necessary is a copy of FE:SoV. This can be acquired either through purchasing a physical cartridge, or by downloading a digital copy from the Nintendo eshop on your 3DS console.
 
-# <a name ="install"></a> Installation
+## <a name ="install"></a> Installation
 ---
 If your copy is a cartridge, simple insert it into your console. To download from the Nintendo eshop, open the eshop app on your console. You will be prompted to login to your nintendo account. Once you have logged in, you will be able to purchase a digital copy if you have funds on your nintendo account. After the download is complete, the game can be launched from the console's home screen.
 
-# <a name ="How"></a> How to Play
+## <a name ="How"></a> How to Play
 ---
 In this game, you will control a small army of characters, or units, in combat against an opposing army. The objective of each chapter is to destroy all units of the opposing army. Both sides will alternate turns, with the player's turn being first.
 
