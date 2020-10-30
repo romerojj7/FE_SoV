@@ -34,9 +34,12 @@ If your copy is a cartridge, simple insert it into your console. To download fro
 
 ## <a name ="How"></a> How to Play
 ---
-In this game, you will control a small army of characters, or units, in combat against an opposing army. The objective of each chapter is to destroy all units of the opposing army. Both sides will alternate turns, with the player's turn being first.
+In this game, you will control a small army of characters, or units, in combat against an opposing army. The objective of each chapter is to destroy all of the opposing army's units. Both sides will alternate turns, with the player's turn being first.
 
-Each unit can move a certain number of tiles. To move a unit, place the cursor over them and press a to select them, and guide the unit to the desired location.
+Each unit can move a certain number of tiles. To move a unit:
+1. Place the cursor over them. 
+1. Press a to select them.
+1. Guide the unit to the desired location.
 
 ![Move](https://raw.githubusercontent.com/romerojj7/FE_SoV/gh-pages/movement.jpg)
 <br/>
