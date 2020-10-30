@@ -51,7 +51,7 @@ Once a unit can move in close enough to attack an enemy, do the following in ord
 1. A battle forecast will pop up, telling you the damage your unit will do to an enemy versus the damage the enemy will do to your unit. 
 1. If the forecast is in your favor, press a to confirm and attack the enemy unit.
 <img src="https://raw.githubusercontent.com/romerojj7/FE_SoV/gh-pages/forecast.jpg" alt="Fe:SoV ForeCast"
-	title="forecast" width="300" height="400" style="float:left" style="display:block"/>
+	title="forecast" width="400" height="300" style="float:left" style="display:block"/>
 *The battle forecast*
 <br/>
 <br/>
