@@ -8,13 +8,8 @@ categories: jekyll Cat2
 ---
 ---
 <img src="https://raw.githubusercontent.com/romerojj7/FE_SoV/gh-pages/cover.png" alt="Fe:SoV Cover"
-	title="Game Cover" width="200" height="200" style="float:left" display="block"/>\
-\
-\
-\
-\
-\
-\
+	title="Game Cover" width="200" height="200" style="float:left" display="block"/>\\\\\\\
+
 
 ## Table of Contents
 ---
