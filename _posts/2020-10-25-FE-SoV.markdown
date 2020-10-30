@@ -8,8 +8,8 @@ categories: jekyll Cat2
 ---
 ---
 <img src="https://raw.githubusercontent.com/romerojj7/FE_SoV/gh-pages/cover.png" alt="Fe:SoV Cover"
-	title="Game Cover" width="300" height="300" style="float:left" style="display:block"/>\
-
+	title="Game Cover" width="300" height="300" style="float:left" style="display:block"/>
+<br/>
 
 ## Table of Contents
 ---
@@ -38,14 +38,14 @@ In this game, you will control a small army of characters, or units, in combat a
 
 Each unit can move a certain number of tiles. To move a unit, place the cursor over them and press a to select them, and guide the unit to the desired location.
 
-![Move](https://raw.githubusercontent.com/romerojj7/FE_SoV/gh-pages/movement.jpg)\
-
+![Move](https://raw.githubusercontent.com/romerojj7/FE_SoV/gh-pages/movement.jpg)
+<br/>
 
 
 Once a unit can move in close enough to attack an enemy, select the attack option. A battle forecast will pop up, telling you the damage your unit will do to an enemy vs the damage the enemy will do to your unit. 
 
-![Forecast](https://raw.githubusercontent.com/romerojj7/FE_SoV/gh-pages/forecast.jpg)\
-
+![Forecast](https://raw.githubusercontent.com/romerojj7/FE_SoV/gh-pages/forecast.jpg)
+<br/>
 
 
 There are also a few other options available when a unit is selected. A unit can trade items with adjacent units, certain units can heal, and a unit can wait to end its turn where it is. The turn continues until all units in the army have taken their turn, at which point the next army takes it's turn.
