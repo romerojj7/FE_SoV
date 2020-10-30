@@ -22,7 +22,7 @@ categories: jekyll Cat2
 
 ## <a name ="intro"></a>Introduction
 ---
-Fire Emblem Echoes: Shadows of Valentia (FE: SoV) is a tactical role playing game for the Nintendo 3DS in 2017. The following documentation will prove helpful to those unfamiliar with the fire emblem series who hope to play this entry.
+Fire Emblem Echoes: Shadows of Valentia (FE: SoV) is a tactical role playing game released for the Nintendo 3DS in 2017. The following documentation will prove helpful to those unfamiliar with the fire emblem series hoping to play this entry.
 
 ## <a name ="equip"></a>Equipment and Materials
 ---
