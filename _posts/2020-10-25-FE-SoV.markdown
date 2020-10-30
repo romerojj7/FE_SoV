@@ -46,7 +46,7 @@ Once a unit can move in close enough to attack an enemy, select the attack optio
 
 ![Forecast](https://raw.githubusercontent.com/romerojj7/FE_SoV/gh-pages/forecast.jpg)
 <img src="https://raw.githubusercontent.com/romerojj7/FE_SoV/gh-pages/forecast.jpg" alt="Fe:SoV ForeCast"
-	title="forecast" width="200" height="200" style="float:left" style="display:block"/>
+	title="forecast" width="250" height="200" style="float:left" style="display:block"/>
 <br/>
 
 There are also a few other options available when a unit is selected. A unit can trade items with adjacent units, certain units can heal, and a unit can wait to end its turn where it is. The turn continues until all units in the army have taken their turn, at which point the next army takes it's turn.
