@@ -41,7 +41,7 @@ Each unit can move a certain number of tiles. To move a unit:
 1. Press a to select them.
 1. Guide the unit to the desired location.
 <img src="https://raw.githubusercontent.com/romerojj7/FE_SoV/gh-pages/movement.jpg" alt="Movement"
-	title="movement" width="400" height="500" style="float:left" style="display:block"/>
+	title="movement" width="400" height="400" style="float:left" style="display:block"/>
 *A unit in movement*
 <br/>
 <br/>
