@@ -6,7 +6,9 @@ categories: jekyll Cat2
 ---
 # Fire Emblem Echoes: Shadows of Valentia Documentation
 <img src="https://raw.githubusercontent.com/romerojj7/FE_SoV/gh-pages/cover.png" alt="Fe:SoV Cover"
-	title="Game Cover" width="150" height="150" style="float:left"/>
+	title="Game Cover" width="200" height="200" style="float:left"/>
+  
+  <br>
   
 ## Table of Contents
 1. [Introduction](#intro)
