@@ -22,20 +22,20 @@ categories: jekyll Cat2
 
 ## <a name ="intro"></a>Introduction
 ---
-Fire Emblem Echoes: Shadows of Valentia (FE: SoV) is a tactical role playing game released for the Nintendo 3DS in 2017. The following documentation will prove helpful to those unfamiliar with the fire emblem series hoping to play this entry.
+Fire Emblem Echoes: Shadows of Valentia (FE: SoV) is a tactical role playing game released for the Nintendo 3DS in 2017. The following documentation will prove helpful to those unfamiliar with the Fire Emblem series hoping to play this entry.
 
 ## <a name ="equip"></a>Equipment and Materials
 ---
-To play, a member of the 3DS family of consoles will be necessary -- 3DS, 2DS, the New 3DS, etc. You will also need a copy of FE:SoV. This can be acquired either through purchasing a physical cartridge, or by downloading a digital copy from the Nintendo eshop on your 3DS console.
+To play, a member of the 3DS family of consoles will be necessary -- this includes the 3DS, 2DS, New 3DS, etc. You will also need a copy of FE:SoV. This can be acquired through either purchasing a physical cartridge, or by downloading a digital copy from the Nintendo eshop on your 3DS console.
 
 ## <a name ="install"></a> Installation
 ---
-If your copy is a cartridge, simple insert it into your console. 
+If your copy is a cartridge, simply insert it into your console. 
 
 To download from the Nintendo eshop:
 1. Open the eshop app on your console
-1. You will be prompted to login to your nintendo account. 
-1. Once you have logged in, you will be able to purchase a digital copy if you have funds on your nintendo account. 
+1. You will be prompted to login to your Nintendo account. 
+1. Once you have logged in, you will be able to purchase a digital copy if you have funds on your Nintendo account. 
 1. After the download is complete, the game can be launched from the console's home screen.
 
 ## <a name ="How"></a> How to Play
