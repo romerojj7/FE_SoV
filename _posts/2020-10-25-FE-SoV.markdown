@@ -34,7 +34,7 @@ If your copy is a cartridge, simply insert it into your console.
 
 To download from the Nintendo eshop:
 1. Open the eshop app on your console
-1. You will be prompted to login to your Nintendo account. 
+1. You will be prompted to log in to your Nintendo account. 
 1. Once you have logged in, you will be able to purchase a digital copy if you have funds on your Nintendo account. 
 1. After the download is complete, the game can be launched from the console's home screen.
 
@@ -62,7 +62,7 @@ Once a unit can move in close enough to attack an enemy, do the following in ord
 <br/>
 <br/>
 
-There are also a few other options available when a unit is selected. A unit can trade items with adjacent units, certain units can heal, and a unit can wait to end its turn where it is. The turn continues until all units in the army have taken their turn, at which point the next army takes it's turn.
+There are also a few other options available when a unit is selected. A unit can trade items with adjacent units, certain units can heal, and a unit can wait to end its turn where it is. The current army's turn continues until all the units in the army have taken their turns, at which point the next army takes it's turn.
 
 ## <a name ="FAQ"></a> FAQs
 ---
